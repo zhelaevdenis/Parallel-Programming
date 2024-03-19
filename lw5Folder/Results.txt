@@ -1,0 +1,20 @@
+Original App: 
+Once:
+66206
+Double:
+61492
+76027
+
+App with CriticalCection:
+Once:
+171438
+Twice:
+2677
+321784
+
+App with Mutex:
+Once:
+76213
+Twice:
+61875
+71842
