@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lw7ParalelDownloadApp", "lw7ParalelDownloadApp.csproj", "{C4F9D194-A483-4878-8C36-21DE875D5C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F9D194-A483-4878-8C36-21DE875D5C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F9D194-A483-4878-8C36-21DE875D5C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F9D194-A483-4878-8C36-21DE875D5C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F9D194-A483-4878-8C36-21DE875D5C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CFD8F3-E136-445C-AC16-85E95D1F517A}
+	EndGlobalSection
+EndGlobal
